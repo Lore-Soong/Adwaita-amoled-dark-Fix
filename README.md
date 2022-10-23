@@ -1,6 +1,8 @@
 # Adwaita-amoled-dark-Fix
 Orginal Creator -paledegax (gnome-look) or TeArch Linux (gitlabs), Thanks for your work!
+
 Adwaita gtk theme full black theme
+
 fix some issues with-
 
 https://gitlab.com/tearch-linux/artworks/themes-and-icons/adwaita-dark-amoled
