@@ -1,6 +1,7 @@
 # Adwaita-amoled-dark-Fix
 Adwaita gtk theme full black theme
 fix some issues with-
+
 https://gitlab.com/tearch-linux/artworks/themes-and-icons/adwaita-dark-amoled
 
 https://www.gnome-look.org/p/1553851
